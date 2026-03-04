@@ -1,10 +1,6 @@
 
 # ✨ **TripGenie AI – Intelligent Travel Planning System**
 
-Here is your clean, professional **GitHub README** 👇
-(You can copy-paste directly into `README.md`)
-
----
 
 # 🌍 TripGenie AI
 
